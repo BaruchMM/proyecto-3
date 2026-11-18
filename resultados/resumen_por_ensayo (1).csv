@@ -1,0 +1,6 @@
+ensayo,actividad,predicciones_evaluadas,aciertos,exactitud_porcentaje
+r01_reposo,reposo,52,52,100.0
+r01_caminar,caminar,52,52,100.0
+r01_correr,correr,52,52,100.0
+r01_subir_escaleras,subir_escaleras,51,48,94.12
+r01_bajar_escaleras,bajar_escaleras,52,52,100.0

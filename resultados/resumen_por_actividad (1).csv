@@ -1,0 +1,6 @@
+actividad,predicciones_evaluadas,aciertos,exactitud_porcentaje,inferencias_promedio_ms,muestras_tarde_ultimo
+reposo,52,52,100.0,12.012,0
+caminar,52,52,100.0,12.012,0
+correr,52,52,100.0,11.986,0
+subir_escaleras,51,48,94.12,12.002,0
+bajar_escaleras,52,52,100.0,11.996,0

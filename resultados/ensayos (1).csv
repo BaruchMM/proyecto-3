@@ -1,0 +1,6 @@
+ensayo,ronda,actividad,inicio_pc,duracion_s,exclusion_transicion_s
+r01_reposo,1,reposo,2026-11-18T00:25:40-06:00,30,4
+r01_caminar,1,caminar,2026-11-18T00:26:27-06:00,30,4
+r01_correr,1,correr,2026-11-18T00:27:12-06:00,30,4
+r01_subir_escaleras,1,subir_escaleras,2026-11-18T00:28:08-06:00,30,4
+r01_bajar_escaleras,1,bajar_escaleras,2026-11-18T00:28:52-06:00,30,4
