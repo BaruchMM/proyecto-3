@@ -1,0 +1,6 @@
+variante,restar_media,aumento,campo_receptivo,elegida,exactitud_prueba_p1,exactitud_prueba_p2,exactitud_prueba_p3,exactitud_media,desv
+sin restar media,ninguna,no,59,no,0.3434,0.2159,0.2413,0.2669,0.0731
+restar media solo giroscopo,gx gy gz,no,59,no,0.3587,0.2153,0.3068,0.2936,0.0732
+restar media 6 canales campo de 13,ax ay az gx gy gz,no,13,no,0.7788,0.6578,0.7192,0.7186,0.055
+restar media 6 canales,ax ay az gx gy gz,no,59,si,0.8732,0.7445,0.6867,0.7681,0.1041
+restar media 6 canales + rotaciones,ax ay az gx gy gz,si,59,no,0.8643,0.751,0.7109,0.7754,0.0877

@@ -1,0 +1,41 @@
+Compilacion para arduino:mbed_nano:nano33ble con arduino-cli
+
+===== HAR_acc_int8 (SENSE_REV2=0, la del .ino) =====
+El Sketch usa 193176 bytes (19%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 84656 bytes (32%) de la memoria dinamica, dejando 177488 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_int8 (SENSE_REV2=1, solo comprobacion) =====
+El Sketch usa 214208 bytes (21%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 85312 bytes (32%) de la memoria dinamica, dejando 176832 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_fp32 (SENSE_REV2=0, la del .ino) =====
+El Sketch usa 214600 bytes (21%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 84656 bytes (32%) de la memoria dinamica, dejando 177488 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_fp32 (SENSE_REV2=1, solo comprobacion) =====
+El Sketch usa 235632 bytes (23%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 85312 bytes (32%) de la memoria dinamica, dejando 176832 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_gir_int8 (SENSE_REV2=0, la del .ino) =====
+El Sketch usa 193696 bytes (19%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 84656 bytes (32%) de la memoria dinamica, dejando 177488 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_gir_int8 (SENSE_REV2=1, solo comprobacion) =====
+El Sketch usa 214728 bytes (21%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 85312 bytes (32%) de la memoria dinamica, dejando 176832 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_gir_fp32 (SENSE_REV2=0, la del .ino) =====
+El Sketch usa 215872 bytes (21%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 84656 bytes (32%) de la memoria dinamica, dejando 177488 bytes para las variables locales. El maximo es 262144 bytes.
+
+
+===== HAR_acc_gir_fp32 (SENSE_REV2=1, solo comprobacion) =====
+El Sketch usa 236904 bytes (24%) del espacio de almacenamiento de programa. El maximo es 983040 bytes.
+Las variables Globales usan 85312 bytes (32%) de la memoria dinamica, dejando 176832 bytes para las variables locales. El maximo es 262144 bytes.
+

@@ -1,0 +1,10 @@
+capa,tipo,forma_salida,parametros,macs
+conv1,Conv1D,48x16,256,11520
+maxpool1,MaxPooling1D,24x16,0,0
+conv2,Conv1D,20x32,2592,51200
+maxpool2,MaxPooling1D,10x32,0,0
+conv3,Conv1D,6x32,5152,30720
+promedio_global,GlobalAveragePooling1D,32,0,0
+dropout,Dropout,32,0,0
+salida,Dense,5,165,160
+total,,,8165,93600

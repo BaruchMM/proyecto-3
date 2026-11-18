@@ -1,0 +1,19 @@
+Parametro,Valor
+Entrada,100 muestras x 3 canales
+Arquitectura,"Conv1D(16, k=5, s=2, relu) - MaxPool(2) - Conv1D(32, k=5, s=1, relu) - MaxPool(2) - Conv1D(32, k=5, s=1, relu) - promedio global - Dropout(0.3) - Dense(5, softmax)"
+Campo receptivo de la ultima convolucion (muestras),59
+Optimizador,Adam
+Learning rate,0.001
+Tamano de lote,32
+Perdida,entropia cruzada categorica
+Epocas maximas,80
+"Paciencia de EarlyStopping (val_loss, restaura los mejores pesos)",10
+Semillas LOSO,1 2 3
+Semilla del modelo final,2026
+"Epocas ejecutadas, modelo final acc",41
+"Epocas ejecutadas, modelo final acc_gir",42
+Python,3.13.1
+TensorFlow,2.21.0
+Keras,3.15.1
+NumPy,2.5.5
+pandas,3.1.1

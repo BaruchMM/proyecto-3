@@ -1,0 +1,5 @@
+sensores,modelo,bytes_tflite,parametros,exactitud_loso,desv_loso,f1_macro_loso,exactitud_val_modelo_final,acuerdo_con_fp32_loso
+acc,fp32,39156,8165,0.8311,0.0864,0.8308,1.0,
+acc,int8,17728,8165,0.8324,0.085,0.8318,1.0,0.9858
+acc_gir,fp32,40376,8405,0.7681,0.1041,0.7675,1.0,
+acc_gir,int8,18200,8405,0.7666,0.1037,0.7661,1.0,0.988

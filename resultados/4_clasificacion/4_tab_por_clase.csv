@@ -1,0 +1,7 @@
+clase,precision,recall,f1,ventanas
+reposo,0.999,1.0,0.9995,1017
+caminar,0.9715,0.5703,0.7187,1017
+correr,0.995,0.9823,0.9886,1017
+subir_escaleras,0.7718,0.6716,0.7182,1017
+bajar_escaleras,0.599,0.9312,0.729,1017
+macro,0.8673,0.8311,0.8308,5085

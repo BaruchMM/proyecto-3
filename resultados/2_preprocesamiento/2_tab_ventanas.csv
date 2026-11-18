@@ -1,0 +1,12 @@
+particion,personas,conjunto,ventanas
+modelo final,"1, 2, 3",entrenamiento (primer 80 % de cada sesion),1335
+modelo final,"1, 2, 3",validacion (ultimo 20 % de cada sesion),300
+LOSO prueba p1,"2, 3",entrenamiento,890
+LOSO prueba p1,"2, 3",validacion,200
+LOSO prueba p1,1,prueba (sesiones completas),565
+LOSO prueba p2,"1, 3",entrenamiento,890
+LOSO prueba p2,"1, 3",validacion,200
+LOSO prueba p2,2,prueba (sesiones completas),565
+LOSO prueba p3,"1, 2",entrenamiento,890
+LOSO prueba p3,"1, 2",validacion,200
+LOSO prueba p3,3,prueba (sesiones completas),565

@@ -1,0 +1,3 @@
+sensores,parametros,bytes_parametros_fp32,bytes_tflite_fp32,bytes_tflite_int8,reduccion_pct,macs_por_inferencia
+acc,8165,32660,39156,17728,54.7247,93600
+acc_gir,8405,33620,40376,18200,54.9237,105120

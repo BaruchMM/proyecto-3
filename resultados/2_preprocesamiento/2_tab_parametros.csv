@@ -1,0 +1,10 @@
+Parametro,Valor
+Frecuencia de muestreo (Hz),50
+Ventana (muestras / s),100 / 2
+Paso entre ventanas (muestras / s),25 / 0.5
+Traslape,75 %
+Recorte por extremo de sesion (muestras),50
+Validacion,ultimo 20 % de cada sesion de entrenamiento
+Columnas a las que se resta su media en cada ventana,ax ay az gx gy gz
+Normalizacion,z-score por canal con media y desviacion del entrenamiento
+Aumento,no

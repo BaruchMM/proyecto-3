@@ -1,0 +1,6 @@
+real \ prediccion,reposo,caminar,correr,subir_escaleras,bajar_escaleras
+reposo,1017,0,0,0,0
+caminar,0,580,0,148,289
+correr,0,0,999,0,18
+subir_escaleras,0,7,0,683,327
+bajar_escaleras,1,10,5,54,947

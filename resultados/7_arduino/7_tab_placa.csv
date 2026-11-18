@@ -1,0 +1,5 @@
+sketch,sensores,modelo,bytes_tflite,compila,flash_bytes,ram_estatica_bytes,arena_usada_bytes,autoprueba,t_min_us,t_max_us,t_prom_us,t_desv_us,prep_prom_us
+HAR_acc_int8,acc,int8,17728,si,193176,84656,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+HAR_acc_fp32,acc,fp32,39156,si,214600,84656,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+HAR_acc_gir_int8,acc_gir,int8,18200,si,193696,84656,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+HAR_acc_gir_fp32,acc_gir,fp32,40376,si,215872,84656,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente

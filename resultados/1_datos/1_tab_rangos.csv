@@ -1,0 +1,4 @@
+magnitud,min,max,muestras_saturadas
+aceleracion por eje (g),-3.7584,3.9995,10
+velocidad angular por eje (grados/s),-230.347,167.2974,0
+norma de la aceleracion (g),0.0084,4.5367,
